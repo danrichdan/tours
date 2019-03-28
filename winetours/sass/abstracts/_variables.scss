@@ -1,0 +1,47 @@
+
+//purple #C401CC
+//deep purple #964D99
+//blue purple #7A1BFF
+//yellow #FFEA5B
+//gold #CC9E01
+
+//COLORS
+$color-primary: hsl(298, 82%, 78%); //purple #C401CC
+$color-primary-light: #ec59f1;
+$color-primary-dark: #5e0361;
+
+$color-secondary: #7A1BFF; //blue purple #7A1BFF
+$color-secondary-light: #ae76fc;
+$color-secondary-dark: #4f04b8;
+
+// $color-tertiary: #FFEA5B; //yellow #FFEA5B
+// $color-tertiary-light: #f7e784;
+// $color-tertiary-dark: #f8d90f; 
+
+$color-tertiary: #CC9E01; //gold #CC9E01
+$color-tertiary-light: #cfb55e;
+$color-tertiary-dark: #927002;
+
+//BLACK AND WHITE
+$color-white: #fff;
+$color-black: #000;
+
+//GREYS
+
+//LIGHT GREYS
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+//DARK GREYS
+$color-grey-dark-1: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+
+//FONTS
+$default-font-size: 1.6rem;
+
+//GRID
+$grid-width: 114rem;
+$gutter-horizontal: 6rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
